@@ -6,7 +6,7 @@ The detector is based on many circuits available on the Internet with few tweaks
 
 # Function principle
 Device utilizes set of PIN photo-diodes to detect passing Beta particles. 
-Following analog circuit is only an I-V converter and amplifier with large amplification.
+Following analog circuit is only an I-V converter and amplifier with large amplification and little bit of filtering.
 To reduce resistor noise I use T network inverting amplifier.
 
 To detect voltage impulses caused by particle collisions STM32G031 is planned to be used.
