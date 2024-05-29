@@ -5,7 +5,7 @@ Device to detect Beta particles. Since only easy-to-come-by Beta emmiter I can g
 The detector is based on many circuits available on the Internet with few tweaks.
 
 # Function principle
-Device utilizes set of PIN photo diodes to detect surrounding Beta particles. 
+Device utilizes set of PIN photo-diodes to detect passing Beta particles. 
 Following analog circuit is only an I-V converter and amplifier with large amplification.
 To reduce resistor noise I use T network inverting amplifier.
 
