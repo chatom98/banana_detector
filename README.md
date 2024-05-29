@@ -13,4 +13,4 @@ To detect voltage impulses caused by particle collisions STM32G031 is planned to
 Device might count caught particles over time and show such number on OLED I2C display as well as beeping with each collision.
 Since I2C communication will add certain noise and since used MCU does not allow to split GND an GNDA, refresh rate of the display is planned low and measurement is conducted only in steady states.
 
-![image](./figs/pcb.jpg)
+![Image](./figs/pcb_image.jpg)
